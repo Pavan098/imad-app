@@ -9,7 +9,10 @@ var articleOne = {
 title:'Article-one',
 heading:'Article one',
 date:'30 august 2017',
-content:` <p This is the first content of my aricle</p>`
+content:`
+
+
+<p This is the first content of my aricle</p>`
        };
 function createTemplate (data){
 var title=data.title;
