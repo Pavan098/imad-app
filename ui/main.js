@@ -19,7 +19,7 @@ button.onclick =function(){
     }  
       //not done yet
   };
-  ,
+  
   //make the request
   request.open('GET','http://motwanipavan19.imad.hasura-app.io/counter',true);
   request.send(null);
